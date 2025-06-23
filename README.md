@@ -2,6 +2,8 @@
 
 A beautiful, responsive drum machine built with React and TypeScript for the FreeCodeCamp Front End Development Libraries certification.
 
+![image](https://github.com/user-attachments/assets/99588886-daed-45e8-af3d-79e83203066c)
+
 ## ✨ Features
 
 - **9 Interactive Drum Pads** - Click or use keyboard keys (Q, W, E, A, S, D, Z, X, C)
@@ -96,5 +98,3 @@ This project successfully passes all FreeCodeCamp automated tests and meets all 
 
 **Ayokanmi Adejola**
 
-# Drum-Machine
-# Drum-Machine
