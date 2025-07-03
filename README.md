@@ -88,11 +88,7 @@ The drum machine is fully responsive and works great on:
 - Mobile phones
 - All modern browsers
 
-## 🏆 Project Status
 
-**Status**: ✅ Complete - All FreeCodeCamp tests passing
-
-This project successfully passes all FreeCodeCamp automated tests and meets all certification requirements.
 
 ## 👨‍💻 Author
 
