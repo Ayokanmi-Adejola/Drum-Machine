@@ -1,4 +1,4 @@
-# 🥁 Drum Machine - FreeCodeCamp Project
+# 🥁 Drum Machine 
 
 A beautiful, responsive drum machine built with React and TypeScript for the FreeCodeCamp Front End Development Libraries certification.
 
