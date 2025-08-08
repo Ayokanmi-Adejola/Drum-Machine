@@ -49,7 +49,7 @@ This project fulfills all FreeCodeCamp user stories:
 
 ```bash
 # Clone the repository
-git clone [your-repo-url]
+git clone https://github.com/Ayokanmi-Adejola/Drum-Machine
 
 # Navigate to project directory
 cd drum-machine
