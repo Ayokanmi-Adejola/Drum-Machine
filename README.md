@@ -2,7 +2,12 @@
 
 A beautiful, responsive drum machine built with React and TypeScript for the FreeCodeCamp Front End Development Libraries certification.
 
-![image](https://github.com/user-attachments/assets/99588886-daed-45e8-af3d-79e83203066c)
+| Desktop | Mobile |
+| ------- | ------ |
+| <img width="1920" height="1837" alt="image" src="https://github.com/user-attachments/assets/992b4ef2-374a-412f-bd89-0d47fd5c2eb1" /> | <img width="492" height="735" alt="image" src="https://github.com/user-attachments/assets/22d1587a-c89b-4e84-a5f3-df5d2b65daf4" /> |
+
+
+
 
 ## ✨ Features
 
